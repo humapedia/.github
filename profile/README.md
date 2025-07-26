@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Humapedia 👥
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-humapedia%2Fhumapedia-blue?logo=github)](https://github.com/humapedia/humapedia.git)
